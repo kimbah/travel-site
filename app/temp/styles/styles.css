@@ -1,0 +1,14 @@
+body {
+    padding: 25px;
+    -webkit-columns: 320px 2;
+            columns: 320px 2;
+    color: #2f5572;
+}
+
+.box a {
+        display: block;
+    }
+
+.nav li {
+        list-style: none;
+    }
